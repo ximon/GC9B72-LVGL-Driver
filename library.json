@@ -1,0 +1,26 @@
+{
+	"name": "GC9B72 LVGL Driver",
+	"version": "1.0.0",
+	"description": "GC9B72 LVGL Driver - for AliExpress 2.1\" round LCDs",
+	"keywords": "GC9B72, LVGL, LCD Driver",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ximon/GC9B72-LVGL-Driver"
+	},
+	"authors": [
+		{
+			"name":"Simon Keen",
+			"email":"simon.crx@gmail.com",
+			"url":"https://github.com/ximon/",
+			"maintainer": true
+		}
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/ximon/",
+	"dependencies": {
+		"lvgl/lvgl": "^9.5.0"
+	},
+	"frameworks": "*",
+	"platforms": "*"
+	
+}
