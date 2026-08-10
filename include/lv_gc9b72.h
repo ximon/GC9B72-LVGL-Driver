@@ -8,7 +8,7 @@ extern "C" {
 /*********************
  *      INCLUDES
  *********************/
-#include "..\.pio\libdeps\esp32-s3-devkitm-1\lvgl\src\drivers\display\lcd\lv_lcd_generic_mipi.h"
+#include "drivers/display/lcd/lv_lcd_generic_mipi.h"
 
 #if LV_USE_GC9B72
 
